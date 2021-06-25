@@ -1,0 +1,11 @@
+*.o
+*.exe
+**/.idea
+**/bin
+**/lib
+**/cmake-build-debug/
+test*.c
+/test
+*.pdf
+*.docx
+*.txt
